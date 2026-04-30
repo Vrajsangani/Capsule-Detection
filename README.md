@@ -44,20 +44,6 @@ It uses a **Convolutional Autoencoder** trained only on **normal (good) capsule 
 - Deep Learning  
 
 
-📂 Project Structure
-capsule_anomaly_detection/
-│
-├── dataset.py
-├── train.py
-├── test.py
-├── predict.py
-├── utils.py
-├── requirements.txt
-│
-├── models/
-   └── autoencoder.py
-
-
 ⚙️ Installation
 
 bash
